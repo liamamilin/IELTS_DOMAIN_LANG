@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300" role="img" aria-label="Scientific Evidence Hierarchy and Ecological Resilience Loop">
+  <rect width="960" height="300" rx="14" fill="#ffffff"/>
+  <text x="480" y="34" text-anchor="middle" fill="#0f172a" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="19" font-weight="700">Part II Core Models: Scientific Evidence &amp; Ecological Systems（科学证据与生态韧性）</text>
+
+  <!-- Left: Evidence Hierarchy -->
+  <rect x="24" y="64" width="444" height="212" rx="12" fill="#f0f9ff" stroke="#0284c7" stroke-width="1.8"/>
+  <text x="44" y="90" fill="#0369a1" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">EVIDENCE HIERARCHY（证据层级 · Ch 02）</text>
+  <rect x="44" y="106" width="404" height="34" rx="7" fill="#0284c7"/>
+  <text x="246" y="128" text-anchor="middle" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="12" font-weight="700">Systematic Review / Meta-Analysis（系统综述 · 最强）</text>
+  <rect x="64" y="148" width="364" height="34" rx="7" fill="#38bdf8"/>
+  <text x="246" y="170" text-anchor="middle" fill="#0f172a" font-family="-apple-system, sans-serif" font-size="12" font-weight="700">Randomised Controlled Trial · RCT（随机对照试验）</text>
+  <rect x="84" y="190" width="324" height="34" rx="7" fill="#bae6fd"/>
+  <text x="246" y="212" text-anchor="middle" fill="#0f172a" font-family="-apple-system, sans-serif" font-size="12" font-weight="600">Observational / Cohort Study（观察性研究 · 关联）</text>
+  <rect x="104" y="232" width="284" height="32" rx="7" fill="#e0f2fe"/>
+  <text x="246" y="253" text-anchor="middle" fill="#334155" font-family="-apple-system, sans-serif" font-size="11.5">Case Report / Anecdote（个案 · 仅作线索）</text>
+
+  <!-- Right: Ecological & Climate Threshold -->
+  <rect x="492" y="64" width="444" height="212" rx="12" fill="#f0fdfa" stroke="#0d9488" stroke-width="1.8"/>
+  <text x="512" y="90" fill="#0f766e" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">ECOLOGY &amp; CLIMATE LOOP（生态韧性与阈值 · Ch 03–05）</text>
+  <g font-family="-apple-system, sans-serif" font-size="12">
+    <rect x="512" y="108" width="192" height="64" rx="8" fill="#ffffff" stroke="#5eead4"/>
+    <text x="608" y="134" text-anchor="middle" fill="#0f172a" font-weight="700">Biodiversity &amp; Redundancy</text>
+    <text x="608" y="156" text-anchor="middle" fill="#64748b" font-size="11">生物多样性支撑系统韧性</text>
+
+    <rect x="724" y="108" width="192" height="64" rx="8" fill="#ffffff" stroke="#5eead4"/>
+    <text x="820" y="134" text-anchor="middle" fill="#0f172a" font-weight="700">Disturbance &amp; Pressure</text>
+    <text x="820" y="156" text-anchor="middle" fill="#64748b" font-size="11">气候变暖 / 栖息地丧失</text>
+
+    <rect x="512" y="188" width="404" height="72" rx="8" fill="#ffffff" stroke="#0d9488"/>
+    <text x="714" y="214" text-anchor="middle" fill="#0f766e" font-weight="700">Threshold &amp; Tipping Point（临界阈值）</text>
+    <text x="714" y="238" text-anchor="middle" fill="#475569" font-size="11.5">Below threshold → Recovery · Above threshold → Alternative Stable State</text>
+  </g>
+</svg>

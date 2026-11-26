@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" width="960" height="320" role="img" aria-label="Four-Layer IELTS Reading Infrastructure">
+  <rect width="960" height="320" rx="14" fill="#ffffff"/>
+  <text x="480" y="34" text-anchor="middle" fill="#0f172a" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="19" font-weight="700">Academic Reading Infrastructure（学术阅读四层基础设施）</text>
+  <text x="480" y="56" text-anchor="middle" fill="#64748b" font-family="-apple-system, sans-serif" font-size="12.5">Comprehension grows from domain frameworks and meaning networks — test technique accelerates what you already understand</text>
+
+  <defs>
+    <marker id="ar1" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#475569"/>
+    </marker>
+  </defs>
+
+  <rect x="24" y="84" width="204" height="168" rx="12" fill="#f0f9ff" stroke="#0284c7" stroke-width="2"/>
+  <rect x="24" y="84" width="204" height="34" rx="12" fill="#0284c7"/>
+  <rect x="24" y="104" width="204" height="14" fill="#0284c7"/>
+  <text x="126" y="106" text-anchor="middle" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">1. Domain Understanding</text>
+  <text x="126" y="142" text-anchor="middle" fill="#0f172a" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="13" font-weight="700">领域理解（现实机制）</text>
+  <text x="126" y="168" text-anchor="middle" fill="#475569" font-family="-apple-system, sans-serif" font-size="11.5">Causal chains &amp; thresholds</text>
+  <text x="126" y="192" text-anchor="middle" fill="#475569" font-family="-apple-system, sans-serif" font-size="11.5">Evidence &amp; trade-off models</text>
+  <text x="126" y="232" text-anchor="middle" fill="#0369a1" font-family="-apple-system, sans-serif" font-size="11.5" font-weight="600">How the domain works</text>
+
+  <line x1="228" y1="168" x2="254" y2="168" stroke="#475569" stroke-width="2" marker-end="url(#ar1)"/>
+
+  <rect x="260" y="84" width="204" height="168" rx="12" fill="#f0fdfa" stroke="#0d9488" stroke-width="2"/>
+  <rect x="260" y="84" width="204" height="34" rx="12" fill="#0d9488"/>
+  <rect x="260" y="104" width="204" height="14" fill="#0d9488"/>
+  <text x="362" y="106" text-anchor="middle" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">2. Domain Language</text>
+  <text x="362" y="142" text-anchor="middle" fill="#0f172a" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="13" font-weight="700">领域语言（意义网络）</text>
+  <text x="362" y="168" text-anchor="middle" fill="#475569" font-family="-apple-system, sans-serif" font-size="11.5">Terms inside causal chains</text>
+  <text x="362" y="192" text-anchor="middle" fill="#475569" font-family="-apple-system, sans-serif" font-size="11.5">Hedging &amp; discourse signals</text>
+  <text x="362" y="232" text-anchor="middle" fill="#0f766e" font-family="-apple-system, sans-serif" font-size="11.5" font-weight="600">How English expresses it</text>
+
+  <line x1="464" y1="168" x2="490" y2="168" stroke="#475569" stroke-width="2" marker-end="url(#ar1)"/>
+
+  <rect x="496" y="84" width="204" height="168" rx="12" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
+  <rect x="496" y="84" width="204" height="34" rx="12" fill="#7c3aed"/>
+  <rect x="496" y="104" width="204" height="14" fill="#7c3aed"/>
+  <text x="598" y="106" text-anchor="middle" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">3. Comprehension</text>
+  <text x="598" y="142" text-anchor="middle" fill="#0f172a" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="13" font-weight="700">阅读理解（心智模型）</text>
+  <text x="598" y="168" text-anchor="middle" fill="#475569" font-family="-apple-system, sans-serif" font-size="11.5">Map details onto known frame</text>
+  <text x="598" y="192" text-anchor="middle" fill="#475569" font-family="-apple-system, sans-serif" font-size="11.5">Automatic bridge inferences</text>
+  <text x="598" y="232" text-anchor="middle" fill="#6d28d9" font-family="-apple-system, sans-serif" font-size="11.5" font-weight="600">Faster, deeper reading</text>
+
+  <line x1="700" y1="168" x2="726" y2="168" stroke="#475569" stroke-width="2" marker-end="url(#ar1)"/>
+
+  <rect x="732" y="84" width="204" height="168" rx="12" fill="#fffbeb" stroke="#d97706" stroke-width="2"/>
+  <rect x="732" y="84" width="204" height="34" rx="12" fill="#d97706"/>
+  <rect x="732" y="104" width="204" height="14" fill="#d97706"/>
+  <text x="834" y="106" text-anchor="middle" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">4. Test Application</text>
+  <text x="834" y="142" text-anchor="middle" fill="#0f172a" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="13" font-weight="700">考试应用（精准定位）</text>
+  <text x="834" y="168" text-anchor="middle" fill="#475569" font-family="-apple-system, sans-serif" font-size="11.5">TFNG · Matching · Summary</text>
+  <text x="834" y="192" text-anchor="middle" fill="#475569" font-family="-apple-system, sans-serif" font-size="11.5">Spotting paraphrase &amp; scope</text>
+  <text x="834" y="232" text-anchor="middle" fill="#b45309" font-family="-apple-system, sans-serif" font-size="11.5" font-weight="600">High-accuracy transfer</text>
+
+  <rect x="24" y="272" width="912" height="32" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="480" y="293" text-anchor="middle" fill="#334155" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" font-weight="600">15 Topic Worlds: Science · Ecology · Life · Climate · Education · Psychology · Health · Economy · Work · Cities · Food · Tech · History · Media</text>
+</svg>

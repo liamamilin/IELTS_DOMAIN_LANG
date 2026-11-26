@@ -1,0 +1,119 @@
+# Glossary（术语索引）{.unnumbered}
+
+::: {.content-visible when-format="html"}
+<div data-ielts-toy="glossary-live-search"></div>
+:::
+
+| English | 中文 |
+|---------|------|
+| Access to education | 教育机会 |
+| Adaptation | 适应 |
+| Agriculture | 农业 |
+| Application | 应用 |
+| Archaeology | 考古学 |
+| Artefacts | 文物 |
+| Artificial intelligence | 人工智能 / AI |
+| Artistic expression | 艺术表达 |
+| Assessment | 评估 |
+| Association | 相关性 |
+| Attention | 注意力 |
+| Automation | 自动化 |
+| Behaviour | 行为 |
+| Bias | 偏见 |
+| Biodiversity | 生物多样性 |
+| Cities | 城市 |
+| Climate | 气候 |
+| Climate change | 气候变化 |
+| Commuting | 通勤 |
+| Competition | 竞争 |
+| Conservation | 保护 |
+| Crop yield | 作物产量 |
+| Cultural transmission | 文化传承 |
+| Decision-making | 决策 |
+| Demand | 需求 |
+| Design | 设计 |
+| Development | 开发 |
+| Diet | 饮食 |
+| Digital learning | 数字学习 |
+| Economic | 经济的 |
+| Economic growth | 经济增长 |
+| Education | 教育 |
+| Educational inequality | 教育不平等 |
+| Emotion | 情绪 |
+| Employment | 就业 |
+| Energy | 能源 |
+| Engagement | 参与感 |
+| Environmental | 环境的 |
+| Environmental pressure | 环境压力 |
+| Evolution | 进化 |
+| Excavation | 发掘 |
+| Exercise | 运动 / 锻炼 |
+| Experiment | 实验证据 |
+| Feedback | 反馈 |
+| Food security | 粮食安全 |
+| Fossil fuels | 化石燃料 |
+| Globalisation | 全球化 |
+| Habitat | 栖息地 |
+| Habitat loss | 栖息地丧失 |
+| Health | 健康 |
+| History | 历史 |
+| Identity | 身份 |
+| Incentive | 激励 |
+| Income inequality | 收入不平等 |
+| Infrastructure | 基础设施 |
+| Innovation | 创新 |
+| Intensive farming | 密集农业 / 集约化农业 |
+| Invention | 发明 |
+| Irrigation | 灌溉 |
+| Job satisfaction | 工作满意度 |
+| Job security | 工作安全感 |
+| Land | 土地 |
+| Language | 语言 |
+| Learning | 在线学习 / 学习 |
+| Lifelong learning | 终身学习 |
+| Liveability | 宜居性 |
+| Media | 媒体 |
+| Medical evidence | 医学证据 |
+| Memory | 记忆 |
+| Migration | 迁徙 |
+| Mitigation | 减缓 |
+| Mobility | 流动性 |
+| Motivation | 动机 |
+| Natural selection | 自然选择 |
+| Observation | 观察 |
+| Organic farming | 有机农业 |
+| Perception | 感知 |
+| Population density | 人口密度 |
+| Practice | 练习 |
+| Prevention | 预防 |
+| Privacy | 隐私 |
+| Productivity | 生产率 |
+| Public health | 公共健康 |
+| Public opinion | 公众意见 / 舆论 |
+| Public services | 公共服务 |
+| Public transport | 公共交通 |
+| Remains | 遗迹 |
+| Remote work | 远程办公 / 远程工作 |
+| Renewable energy | 可再生能源 |
+| Repetitive tasks | 重复性任务 |
+| Representation | 再现 / 表征 |
+| Reproduction | 繁殖 |
+| Resilience | 韧性 |
+| Resources | 资源 |
+| Restoration | 生态恢复 |
+| Skill demand | 技能需求 |
+| Skill development | 能力发展 |
+| Social influence | 社会影响 |
+| Soil quality | 土壤质量 |
+| Stress | 压力 |
+| Supply | 供给 |
+| Sustainable agriculture | 可持续农业 |
+| Sustainable development | 可持续发展 |
+| Systems | 系统 |
+| Technology | 技术 |
+| Trade | 贸易 |
+| Training | 培训 |
+| Unintended consequences | 意外后果 |
+| Urbanisation | 城市化 |
+| Wellbeing | 福祉 |
+| Work | 工作 |

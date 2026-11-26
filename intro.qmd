@@ -1,0 +1,32 @@
+# Introduction {.unnumbered}
+
+## Why Domain Language Matters
+
+Academic reading in English draws its passages from a limited set of recurring topic worlds（主题世界）: science, environment, life, climate, education, psychology, health, economy, work, cities, agriculture, technology, history, media, design, and culture. These worlds appear across examinations, textbooks, university courses, and public discourse because they represent the domains where educated societies think, investigate, debate, and make decisions.
+
+Each domain has its own way of organising reality — its own conceptual structure（概念结构）, its own network of relationships, and its own language for expressing those relationships. A reader who understands how a domain works can follow a new text in that domain with greater speed and accuracy. A reader who does not must build that understanding from scratch while reading — a slower, more effortful process.
+
+## How This Book Works
+
+This book builds domain knowledge and domain language together, one domain at a time. Each chapter:
+
+1. Opens a topic world and explains how its core concepts connect
+2. Introduces the English expressions where they naturally live — inside mechanisms, relationships, and processes
+3. Develops the meaning networks（意义网络）that give each term its full explanatory power
+4. Uses Chinese brackets to clarify key concepts without interrupting English reading
+
+The writing follows the style of academic texts — English-first exposition with Chinese brackets for key concepts — so that the reader builds comprehension in the same language environment they will encounter in actual reading.
+
+## How to Use This Book
+
+The chapters can be read in order, building domain knowledge progressively across all 15 topic worlds. Alternatively, readers can select the domains most relevant to their interests — a student of environmental science might begin with Chapters 3 and 4, while a student of business might start with Chapters 9 and 10.
+
+Each section within a chapter focuses on one core mechanism. The reader should aim to understand how the mechanism works, how the concepts connect, and how English expresses those connections — rather than memorising individual terms in isolation.
+
+## What This Book Does Not Do
+
+This book does not teach test techniques — skimming, scanning, identifying question types, or eliminating incorrect options. These techniques are valuable, but they work best when comprehension is already present. This book builds the comprehension that makes those techniques effective.
+
+This book does not provide practice exercises or sample questions. These can be developed later as a companion volume or workbook.
+
+This book does not replace the need to read authentic academic texts. It provides the domain foundation（领域基础）that makes reading those texts easier and more productive.

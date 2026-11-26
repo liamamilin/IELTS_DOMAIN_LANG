@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 290" width="960" height="290" role="img" aria-label="Society, Economy, Work, Cities and Food Systems Map">
+  <rect width="960" height="290" rx="14" fill="#ffffff"/>
+  <text x="480" y="34" text-anchor="middle" fill="#0f172a" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="19" font-weight="700">Part IV Core Models: Markets, Work, Cities &amp; Food Systems（经济、工作、城市与农业）</text>
+
+  <g font-family="-apple-system, sans-serif">
+    <rect x="24" y="66" width="218" height="196" rx="12" fill="#fffbeb" stroke="#d97706" stroke-width="1.8"/>
+    <text x="40" y="94" fill="#b45309" font-size="13" font-weight="700">Ch 09 · Markets</text>
+    <text x="40" y="122" fill="#1e293b" font-size="11.5">• Scarcity &amp; Allocation</text>
+    <text x="40" y="148" fill="#1e293b" font-size="11.5">• Supply, Demand &amp; Price</text>
+    <text x="40" y="174" fill="#1e293b" font-size="11.5">• Incentives &amp; Externalities</text>
+    <text x="40" y="200" fill="#1e293b" font-size="11.5">• Productivity &amp; Trade</text>
+    <text x="40" y="242" fill="#b45309" font-size="11" font-weight="600">Scarcity → Choice → Outcome</text>
+
+    <rect x="256" y="66" width="218" height="196" rx="12" fill="#f0f9ff" stroke="#0284c7" stroke-width="1.8"/>
+    <text x="272" y="94" fill="#0369a1" font-size="13" font-weight="700">Ch 10 · Work &amp; Skills</text>
+    <text x="272" y="122" fill="#1e293b" font-size="11.5">• Automation &amp; Skill Shift</text>
+    <text x="272" y="148" fill="#1e293b" font-size="11.5">• Remote &amp; Flexible Work</text>
+    <text x="272" y="174" fill="#1e293b" font-size="11.5">• Job Security &amp; Mobility</text>
+    <text x="272" y="200" fill="#1e293b" font-size="11.5">• Lifelong Training</text>
+    <text x="272" y="242" fill="#0369a1" font-size="11" font-weight="600">Tech Shift → Skill Demand</text>
+
+    <rect x="488" y="66" width="218" height="196" rx="12" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.8"/>
+    <text x="504" y="94" fill="#6d28d9" font-size="13" font-weight="700">Ch 11 · Cities &amp; Space</text>
+    <text x="504" y="122" fill="#1e293b" font-size="11.5">• Population Density</text>
+    <text x="504" y="148" fill="#1e293b" font-size="11.5">• Housing &amp; Commuting</text>
+    <text x="504" y="174" fill="#1e293b" font-size="11.5">• Public Transit &amp; Services</text>
+    <text x="504" y="200" fill="#1e293b" font-size="11.5">• Urban Liveability</text>
+    <text x="504" y="242" fill="#6d28d9" font-size="11" font-weight="600">Density → Cost → Capacity</text>
+
+    <rect x="720" y="66" width="216" height="196" rx="12" fill="#ecfdf5" stroke="#059669" stroke-width="1.8"/>
+    <text x="736" y="94" fill="#047857" font-size="13" font-weight="700">Ch 12 · Food &amp; Land</text>
+    <text x="736" y="122" fill="#1e293b" font-size="11.5">• Soil Quality &amp; Irrigation</text>
+    <text x="736" y="148" fill="#1e293b" font-size="11.5">• Intensive vs. Organic</text>
+    <text x="736" y="174" fill="#1e293b" font-size="11.5">• Crop Yield &amp; Erosion</text>
+    <text x="736" y="200" fill="#1e293b" font-size="11.5">• Food Security</text>
+    <text x="736" y="242" fill="#047857" font-size="11" font-weight="600">Yield vs. Sustainability</text>
+  </g>
+</svg>

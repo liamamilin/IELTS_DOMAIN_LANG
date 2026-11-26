@@ -1,0 +1,18 @@
+<script src="assets/toys/core.js"></script>
+<script src="assets/toys/part1_2.js"></script>
+<script src="assets/toys/part3_4.js"></script>
+<script src="assets/toys/part5_back.js"></script>
+<script>
+  (function () {
+    function boot() {
+      if (window.IELTSToys && typeof window.IELTSToys.mountAll === 'function') {
+        window.IELTSToys.mountAll(document);
+      }
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', boot);
+    } else {
+      boot();
+    }
+  })();
+</script>

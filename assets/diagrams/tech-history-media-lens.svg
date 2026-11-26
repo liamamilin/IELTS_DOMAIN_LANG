@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 290" width="960" height="290" role="img" aria-label="Technology, History, Archaeology and Media Framing Models">
+  <rect width="960" height="290" rx="14" fill="#ffffff"/>
+  <text x="480" y="34" text-anchor="middle" fill="#0f172a" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="19" font-weight="700">Part V Core Models: Innovation, Historical Evidence &amp; Media Framing（技术、历史与媒体）</text>
+
+  <g font-family="-apple-system, sans-serif">
+    <rect x="24" y="66" width="292" height="196" rx="12" fill="#f0f9ff" stroke="#0284c7" stroke-width="1.8"/>
+    <text x="44" y="94" fill="#0369a1" font-size="13.5" font-weight="700">Ch 13 · Technology &amp; Innovation</text>
+    <text x="44" y="122" fill="#1e293b" font-size="12">• Invention vs. Diffusion（扩散）</text>
+    <text x="44" y="148" fill="#1e293b" font-size="12">• Adoption Barriers &amp; Standards</text>
+    <text x="44" y="174" fill="#1e293b" font-size="12">• Unintended Consequences（意外后果）</text>
+    <text x="44" y="200" fill="#1e293b" font-size="12">• Privacy, AI &amp; Governance</text>
+    <text x="44" y="242" fill="#0369a1" font-size="11.5" font-weight="600">Tech + Social Context → Impact</text>
+
+    <rect x="334" y="66" width="292" height="196" rx="12" fill="#fffbeb" stroke="#d97706" stroke-width="1.8"/>
+    <text x="354" y="94" fill="#b45309" font-size="13.5" font-weight="700">Ch 14 · History &amp; Archaeology</text>
+    <text x="354" y="122" fill="#1e293b" font-size="12">• Artefacts &amp; Excavation（发掘遗存）</text>
+    <text x="354" y="148" fill="#1e293b" font-size="12">• Primary vs. Secondary Sources</text>
+    <text x="354" y="174" fill="#1e293b" font-size="12">• Dating Methods &amp; Stratigraphy</text>
+    <text x="354" y="200" fill="#1e293b" font-size="12">• Revision &amp; Competing Accounts</text>
+    <text x="354" y="242" fill="#b45309" font-size="11.5" font-weight="600">Evidence → Interpretation → Revision</text>
+
+    <rect x="644" y="66" width="292" height="196" rx="12" fill="#fdf2f8" stroke="#db2777" stroke-width="1.8"/>
+    <text x="664" y="94" fill="#be185d" font-size="13.5" font-weight="700">Ch 15 · Media, Design &amp; Culture</text>
+    <text x="664" y="122" fill="#1e293b" font-size="12">• Framing &amp; Representation（表征）</text>
+    <text x="664" y="148" fill="#1e293b" font-size="12">• Public Opinion &amp; Gatekeeping</text>
+    <text x="664" y="174" fill="#1e293b" font-size="12">• Function vs. Aesthetics（设计权衡）</text>
+    <text x="664" y="200" fill="#1e293b" font-size="12">• Cultural Transmission（文化传承）</text>
+    <text x="664" y="242" fill="#be185d" font-size="11.5" font-weight="600">Medium + Audience → Shared Meaning</text>
+  </g>
+</svg>

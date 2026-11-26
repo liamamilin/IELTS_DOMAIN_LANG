@@ -1,0 +1,81 @@
+project:
+  type: book
+  output-dir: _book
+  resources:
+    - "assets/toys/**"
+    - "assets/diagrams/**"
+
+book:
+  title: "雅思阅读的领域语言"
+  subtitle: "在雅思主题范围内学习世界如何被英语表达"
+  author: "Lin.Mi"
+  date: today
+  description: "A domain-language reader for IELTS Academic Reading covering 15 recurring topic worlds with bilingual anchors and interactive reading labs."
+  cover-image: assets/cover.svg
+  favicon: assets/favicon.svg
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 2
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "Part I: Topic Worlds and Academic Reading"
+      chapters:
+        - chapter-01-topic-worlds.qmd
+    - part: "Part II: Science, Nature, and Environment"
+      chapters:
+        - chapter-02-scientific-inquiry.qmd
+        - chapter-03-environmental-systems.qmd
+        - chapter-04-life-adaptation.qmd
+        - chapter-05-climate-energy.qmd
+    - part: "Part III: Humans, Learning, and Health"
+      chapters:
+        - chapter-06-learning-education.qmd
+        - chapter-07-psychology-behaviour.qmd
+        - chapter-08-health-risk.qmd
+    - part: "Part IV: Society, Economy, and Space"
+      chapters:
+        - chapter-09-resources-markets.qmd
+        - chapter-10-work-skills.qmd
+        - chapter-11-cities-infrastructure.qmd
+        - chapter-12-agriculture-food.qmd
+    - part: "Part V: Technology, History, and Culture"
+      chapters:
+        - chapter-13-technology-innovation.qmd
+        - chapter-14-history-archaeology.qmd
+        - chapter-15-media-design.qmd
+    - summary.qmd
+    - glossary.qmd
+    - references.qmd
+  search: true
+  page-navigation: true
+  reader-mode: true
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css:
+      - assets/custom.css
+      - assets/toys.css
+    include-after-body: assets/toys-loader.html
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-copy: true
+    code-overflow: wrap
+    smooth-scroll: true
+    anchor-sections: true
+    fig-cap-location: bottom
+    tbl-cap-location: top
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    number-sections: true
+    colorlinks: true
+
+editor: visual

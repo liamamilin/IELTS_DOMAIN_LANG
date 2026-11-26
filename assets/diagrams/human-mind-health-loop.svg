@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 290" width="960" height="290" role="img" aria-label="Humans, Learning, Psychology and Public Health Causal Map">
+  <rect width="960" height="290" rx="14" fill="#ffffff"/>
+  <text x="480" y="34" text-anchor="middle" fill="#0f172a" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="19" font-weight="700">Part III Core Models: Learning, Cognition &amp; Public Health（学习、心理与公共健康）</text>
+
+  <g font-family="-apple-system, sans-serif">
+    <rect x="24" y="66" width="292" height="196" rx="12" fill="#f0f9ff" stroke="#0284c7" stroke-width="1.8"/>
+    <text x="44" y="94" fill="#0369a1" font-size="13.5" font-weight="700">Ch 06 · Learning &amp; Education</text>
+    <text x="44" y="122" fill="#1e293b" font-size="12">• Motivation &amp; Engagement（参与感）</text>
+    <text x="44" y="148" fill="#1e293b" font-size="12">• Feedback &amp; Practice（反馈练习）</text>
+    <text x="44" y="174" fill="#1e293b" font-size="12">• Access vs. Inequality（教育机会）</text>
+    <text x="44" y="200" fill="#1e293b" font-size="12">• Assessment &amp; Transfer（迁移能力）</text>
+    <text x="44" y="242" fill="#0369a1" font-size="11.5" font-weight="600">Core Lens: Input → Practice → Outcome</text>
+
+    <rect x="334" y="66" width="292" height="196" rx="12" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.8"/>
+    <text x="354" y="94" fill="#6d28d9" font-size="13.5" font-weight="700">Ch 07 · Psychology &amp; Behaviour</text>
+    <text x="354" y="122" fill="#1e293b" font-size="12">• Perception &amp; Attention（感知注意）</text>
+    <text x="354" y="148" fill="#1e293b" font-size="12">• Memory &amp; Heuristic Bias（认知偏见）</text>
+    <text x="354" y="174" fill="#1e293b" font-size="12">• Emotion &amp; Social Influence（社会影响）</text>
+    <text x="354" y="200" fill="#1e293b" font-size="12">• Bounded Rationality（有限理性）</text>
+    <text x="354" y="242" fill="#6d28d9" font-size="11.5" font-weight="600">Core Lens: Stimulus → Appraisal → Action</text>
+
+    <rect x="644" y="66" width="292" height="196" rx="12" fill="#ecfdf5" stroke="#059669" stroke-width="1.8"/>
+    <text x="664" y="94" fill="#047857" font-size="13.5" font-weight="700">Ch 08 · Health &amp; Public Risk</text>
+    <text x="664" y="122" fill="#1e293b" font-size="12">• Risk Factor &amp; Probability（风险概率）</text>
+    <text x="664" y="148" fill="#1e293b" font-size="12">• Confounding Variable（混杂变量）</text>
+    <text x="664" y="174" fill="#1e293b" font-size="12">• Prevention vs. Treatment（预防治疗）</text>
+    <text x="664" y="200" fill="#1e293b" font-size="12">• Population-Level Policy（群体干预）</text>
+    <text x="664" y="242" fill="#047857" font-size="11.5" font-weight="600">Core Lens: Exposure → Risk → Intervention</text>
+  </g>
+</svg>

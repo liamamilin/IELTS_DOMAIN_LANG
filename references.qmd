@@ -1,0 +1,10 @@
+# References & Reading Science Lineage {.unnumbered}
+
+The domain-language approach in this reader builds on cognitive reading research, second-language academic literacy, and disciplinary discourse analysis:
+
+- **Mental Models & Prior Domain Knowledge**: Comprehension depends on constructing situation models anchored in prior domain knowledge [@kintsch1998comprehension; @recht1988effect; @willingham2017reading].
+- **Second-Language Academic Reading & Vocabulary**: Transferable academic literacy grows from systematic exposure to academic vocabulary and discourse structures [@grabe2009reading; @coxhead2000awl].
+- **Disciplinary Discourse & Hedging**: Each academic domain signals evidence standards, caution, and argumentation through characteristic phrasing [@hyland2004disciplinary].
+
+::: {#refs}
+:::

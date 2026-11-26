@@ -1,0 +1,106 @@
+/* ==========================================================================
+   IELTS Domain Language — Editorial Typography & Adaptive Theme Stylesheet
+   ========================================================================== */
+
+:root {
+  --dl-accent: #0284c7;
+  --dl-teal: #0d9488;
+  --dl-border: #e2e8f0;
+  --dl-text: #1e293b;
+  --dl-muted: #475569;
+  --dl-quote-bg: #f1f5f9;
+  --dl-table-head: #f1f5f9;
+  --dl-table-stripe: #f8fafc;
+  --dl-shadow: 0 4px 16px rgba(15, 23, 42, 0.06);
+}
+
+body.quarto-dark {
+  --dl-accent: #38bdf8;
+  --dl-teal: #2dd4bf;
+  --dl-border: #334155;
+  --dl-text: #e2e8f0;
+  --dl-muted: #94a3b8;
+  --dl-quote-bg: rgba(30, 41, 59, 0.72);
+  --dl-table-head: #1e293b;
+  --dl-table-stripe: rgba(30, 41, 59, 0.45);
+  --dl-shadow: 0 6px 22px rgba(0, 0, 0, 0.34);
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", "PingFang SC",
+    "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+  line-height: 1.78;
+  -webkit-font-smoothing: antialiased;
+}
+
+main.content {
+  max-width: 820px;
+}
+
+main.content h2 {
+  margin-top: 2.3rem;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1.5px solid var(--dl-border);
+  font-weight: 700;
+}
+
+main.content h3 {
+  margin-top: 1.65rem;
+  margin-bottom: 0.6rem;
+  color: var(--dl-accent);
+  font-weight: 700;
+}
+
+blockquote {
+  margin: 1.25rem 0;
+  padding: 0.9rem 1.2rem;
+  border-left: 4px solid var(--dl-accent);
+  background: var(--dl-quote-bg);
+  border-radius: 0 8px 8px 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.25rem 0 1.5rem;
+  border: 1px solid var(--dl-border);
+  border-radius: 10px;
+  overflow: hidden;
+  font-size: 0.93rem;
+}
+
+table thead th {
+  background: var(--dl-table-head);
+  font-weight: 650;
+  text-align: left;
+  padding: 0.65rem 0.85rem;
+  border-bottom: 1.5px solid var(--dl-border);
+}
+
+table tbody td {
+  padding: 0.58rem 0.85rem;
+  border-bottom: 1px solid var(--dl-border);
+  vertical-align: top;
+}
+
+table tbody tr:last-child td { border-bottom: none; }
+table tbody tr:nth-child(even) { background: var(--dl-table-stripe); }
+
+img[src*="assets/diagrams/"],
+.quarto-figure img[src*="assets/diagrams/"] {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 1.25rem auto;
+  border-radius: 12px;
+  border: 1px solid var(--dl-border);
+  box-shadow: var(--dl-shadow);
+  background: #ffffff;
+}
+
+.quarto-cover-image {
+  border-radius: 14px;
+  box-shadow: 0 14px 36px rgba(15, 23, 42, 0.22);
+}

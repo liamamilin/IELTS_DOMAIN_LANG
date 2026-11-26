@@ -1,0 +1,30 @@
+# Summary {.unnumbered}
+
+This book has introduced 15 topic worlds that appear regularly in academic reading. Each chapter has explained how the domain organises reality, how its core concepts connect, and how English expresses those connections.
+
+## The Core Principle
+
+Reading grows from understanding how a domain talks about the world. Domain understanding（领域理解）and domain language（领域语言）together form the reading infrastructure（阅读基础设施）that makes academic comprehension possible. When the infrastructure is in place, the reader approaches a text with an existing conceptual framework that organises incoming information. New details are mapped onto known structures. New arguments are followed through known discourse patterns.
+
+## What the Reader Has Built
+
+A reader who completes this book holds established conceptual frameworks across the most common topic worlds of academic reading:
+
+- **Part I** introduced the method — how topic worlds, domain language, and meaning networks support reading comprehension
+- **Part II** explained science, nature, and environment — how observation, evidence, ecosystems, adaptation, and climate systems are described in English
+- **Part III** explored humans, learning, and health — how education, psychology, behaviour, and public health are analysed and discussed
+- **Part IV** covered society, economy, and space — how markets, work, cities, and agriculture are organised and debated
+- **Part V** examined technology, history, and culture — how innovation, the past, media, and design are interpreted and contested
+
+## What Comes Next
+
+Domain knowledge is cumulative. Each new text in a familiar domain strengthens existing frameworks. Each new domain learned makes the next domain easier to enter, because conceptual structures overlap across fields — ecological resilience and economic risk share the concept of system vulnerability; psychological bias and economic decision-making share bounded rationality; public health and environmental science share the concept of risk factor.
+
+The reader is now equipped to approach academic texts in these domains with greater speed, accuracy, and depth of understanding. The language is familiar. The frameworks are in place. Each new text will add detail to an existing structure rather than requiring ground-up construction.
+
+That is the advantage of building domain infrastructure before reading domain texts.
+
+::: {.content-visible when-format="html"}
+<div data-ielts-toy="summary-cross-domain-bridge"></div>
+:::
+
